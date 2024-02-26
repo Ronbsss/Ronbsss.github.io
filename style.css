@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Crafty+Girls&family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body {
+  background-color: #f4cbc6;
+  font-family: 'itim';
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f7FDF9;
+  border-radius: 1em;
+  padding: 1em;
+  width: 500px;
+  margin: 2em auto;
+  position: relative;
+}
+
+span {
+  background-color: #ce4257;
+  color: #f7FDF9;
+  padding: 5px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+img {
+  width: 50%;
+  
+}
+
+a {
+  background-color: #ce4257;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  transition: 0.3s ease;
+}
+
+a:hover {
+  background-color: #f4cbc6;
+  color: black;
+}
+
+button
+
+p {
+  font-family: "Poppins", sans-serif;
+}
+
+h1, h2 {
+  font-family: 'Crafty girls';
+  color: #DDAA00;
+}
